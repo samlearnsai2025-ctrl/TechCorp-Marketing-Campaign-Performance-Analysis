@@ -256,6 +256,8 @@ Acquisition cost, conversion rate, and ROI differ only slightly across campaigns
 
 ```
 ├── README.md
+├── dataset/
+│   └── techcorp_marketing_campaign_dataset.csv
 ├── sql/
 │   └── techcorp_analysis.sql
 ├── powerbi/
