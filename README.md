@@ -168,11 +168,7 @@ LIMIT 1;
 
 **Finding:** Outdoor Adventurers + Website had the highest average engagement score.
 
-### 5. Does higher engagement lead to higher conversion?
-
-**Finding:** Across campaign/channel combinations, average engagement score and average conversion rate show a **weak positive relationship (r = 0.24)**. Higher engagement is somewhat associated with higher conversion, but the link is not strong.
-
-### 6. Which target audience converts best?
+### 5. Which target audience converts best?
 
 ```sql
 SELECT
